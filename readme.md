@@ -22,7 +22,7 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a student at HCMC University of Foreign Languages - Information Technology
+- 👨🏽‍💻 I’m currently a student at HCMC University of Foreign Languages - Information Technology.
 - 🌱 I’m currently exploring Javascript & Typescript with a big interest.
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about Javascript, I love to answer!
