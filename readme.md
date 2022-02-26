@@ -42,7 +42,7 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <img src="https://github-readme-stats.vercel.app/api?username=vinhkyit&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="VinhKyIT's Github Star">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinhykyit&count_private=true&theme=radical" alt="VinhKyIT" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinhkyit&count_private=true&theme=radical" alt="VinhKyIT" />
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinhkyit&count_private=true&theme=radical" alt="VinhKyIT" />
 
 ---
