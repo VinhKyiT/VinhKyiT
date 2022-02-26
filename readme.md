@@ -22,10 +22,10 @@ A **WEB DEVELOPMENT** **_Enthusiast_** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms.
+- 👨🏽‍💻 I’m currently a student at HCMC University of Foreign Languages - Information Technology
+- 🌱 I’m currently exploring Javascript & Typescript with a big interest.
 - 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
+- 💬 Ask me about Javascript, I love to answer!
 - 📫 Email me at [vinhkyit2905@gmail.com](mailto:vinhkyit2905@gmail.com).
 
 **Languages and Tools:**
